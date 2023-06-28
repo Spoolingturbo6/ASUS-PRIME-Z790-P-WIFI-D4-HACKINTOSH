@@ -1,4 +1,4 @@
-<h1 align="center">ASUS-PRIME-Z790-P-WIFI-D4</h1>
+<h1 align="center">ASUS-PRIME-Z790-P-WIFI-D4 i9 12900k </h1>
 <h3 align="center">  Z790 DDR4   i9   12900k   & OpenCore  </h3>
 
 <br>
