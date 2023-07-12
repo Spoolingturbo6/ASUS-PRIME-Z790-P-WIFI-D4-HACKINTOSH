@@ -49,18 +49,14 @@
 |       |                    |
 | :------------------ | :------------------------ |
 
-      NVMe: 
-Generic SSD Controller:
-Samsung SSD 980 PRO 1TB:
-
+     
+      NVMe: Generic SSD Controller:
+|       |                    |
+| :------------------ | :------------------------ |
+  Samsung SSD 980 PRO 1TB:
   Capacity:	1 TB
   TRIM Support:	Yes
   Model:	Samsung SSD 980 PRO 1TB
-  Revision:	5B2QGXA7
-    Link Width:	x4
-  Partition Map Type:	GPT (GUID Partition Table)
-  Removable Media:	No
-  S.M.A.R.T. status:	Verified
-  Volumes:
-
+|       |                    |
+| :------------------ | :------------------------ |
 
